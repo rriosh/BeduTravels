@@ -1,0 +1,4 @@
+# Este es el archivo GitIgnore para excluir todos aquellos archivos que no queramos subir a nuestro repositorio
+# Ej: NodeModules, Imagenes (Por el tamaño de los archivos), Bases de datos, (Por que cada quien tiene datos diferentes), etc...
+
+/images
